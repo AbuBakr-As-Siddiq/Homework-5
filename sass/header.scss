@@ -22,14 +22,15 @@ $tomoto:#F03E3D;
 
 body {
     margin: 0;
+    overflow-x: hidden;
     padding: 0;
     box-sizing: border-box;
 }
 
 .container {
     max-width: 1192px;
-    border: 1px solid black;
     margin: auto;
+    overflow-x: hidden;
 }
 
 header {
